@@ -1,0 +1,7 @@
+C:\Users\Никита\source\repos\Longest_Common_Prefix\Longest_Common_Prefix\bin\Debug\Longest_Common_Prefix.exe.config
+C:\Users\Никита\source\repos\Longest_Common_Prefix\Longest_Common_Prefix\bin\Debug\Longest_Common_Prefix.exe
+C:\Users\Никита\source\repos\Longest_Common_Prefix\Longest_Common_Prefix\bin\Debug\Longest_Common_Prefix.pdb
+C:\Users\Никита\source\repos\Longest_Common_Prefix\Longest_Common_Prefix\obj\Debug\Longest_Common_Prefix.csproj.AssemblyReference.cache
+C:\Users\Никита\source\repos\Longest_Common_Prefix\Longest_Common_Prefix\obj\Debug\Longest_Common_Prefix.csproj.CoreCompileInputs.cache
+C:\Users\Никита\source\repos\Longest_Common_Prefix\Longest_Common_Prefix\obj\Debug\Longest_Common_Prefix.exe
+C:\Users\Никита\source\repos\Longest_Common_Prefix\Longest_Common_Prefix\obj\Debug\Longest_Common_Prefix.pdb
