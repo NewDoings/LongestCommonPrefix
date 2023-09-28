@@ -1,4 +1,4 @@
-# №14. 
+## №14. 
 # LongestCommonPrefix
 # easy
 Задача на leetcode №14. 
